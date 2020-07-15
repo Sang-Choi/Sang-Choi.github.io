@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sang Choi"
+title                    : "Aidan Yang"
 title_separator          : "-"
 name                     : ""
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Undergraduate Researcher at Queen's University"
+url                      : https://aidanby.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "aidanby/aidanby.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sang Choi"
+  name             : "Aidan Yang"
   avatar           : "profile.jpg"
-  bio              : "A pretty cool bean"
-  location         : "Terre Haute, IN"
+  bio              : "Undergraduate Researcher at Queen's University"
+  location         : "Kingston, Ontario"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "chois3@rose-hulman.edu
+  googlescholar    : "https://scholar.google.ca/citations?user=KJ2zjBwAAAAJ&hl=en"
+  email            : "a.yang@queensu.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,20 +95,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Sang-Choi"
+  github           : "aidanby"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "AidanYang5"
   vine             :
   weibo            :
   xing             :
