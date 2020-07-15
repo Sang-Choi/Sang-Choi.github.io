@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aidan Yang"
+title                    : "Sang Choi"
 title_separator          : "-"
 name                     : ""
-description              : &description "Undergraduate Researcher at Queen's University"
+description              : &description "Undergraduate Researcher at Rose-Hulman Institute of Technology"
 url                      : https://aidanby.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "aidanby/aidanby.github.io"
+repository               : "sang-choi/sang-choi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Aidan Yang"
+  name             : "Sang Choi"
   avatar           : "profile.jpg"
-  bio              : "Undergraduate Researcher at Queen's University"
-  location         : "Kingston, Ontario"
+  bio              : "Undergraduate Researcher at Rose-Hulman Institute of Technology"
+  location         : "Terre Haute, IN"
   employer         :
-  googlescholar    : "https://scholar.google.ca/citations?user=KJ2zjBwAAAAJ&hl=en"
-  email            : "a.yang@queensu.ca"
+  googlescholar    : 
+  email            : "chois3@rose-hulman.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "aidanby"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
@@ -107,7 +107,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "AidanYang5"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
