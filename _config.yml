@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Sang Choi"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : ""
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : 
+  name             : "Sang Choi"
   avatar           : "profile.jpg"
   bio              : "A pretty cool bean"
   location         : "Terre Haute, IN"
