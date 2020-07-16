@@ -1,4 +1,12 @@
 ---
+permalink: /
+title: ""
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 Hey! 	Waving Hand on OpenMoji 12.3
 ======
 I am a 2nd year Computer Science student at Rose-Hulman Institute of Technology. I am currently interning at Carnegie Mellon University's Institute of Software Research.
