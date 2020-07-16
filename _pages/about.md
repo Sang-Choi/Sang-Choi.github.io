@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hey! 	<img src = "images/wavinghand.png" width = "15" height = "15" style="vertical-align:middle">
+Hey! 	<img src = "images/wavinghand.png" width = "25" height = "25" style="vertical-align:middle">
 ======
 I am a 2nd year Computer Science student at Rose-Hulman Institute of Technology. I am currently interning at Carnegie Mellon University's Institute of Software Research.
 I'm working with Dr. Eunsuk Kang on lightweight formal methods to develop safe and robust Human-Machine Interfaces.
