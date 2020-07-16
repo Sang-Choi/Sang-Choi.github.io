@@ -12,7 +12,7 @@ Hey! 	<img src = "images/wavinghand.png" width = "45" height = "45" style="verti
 I am a 2nd year Computer Science student at Rose-Hulman Institute of Technology. I am currently interning at Carnegie Mellon University's Institute of Software Research.
 I'm working with Dr. Eunsuk Kang on lightweight formal methods to develop safe and robust Human-Machine Interfaces.
 
-Research Interest <img src = "images/questionmark.png" width = "45" height = "45" style="vertical-align:middle">
+Research Interest <img src = "images/questionmark.png" width = "35" height = "35" style="vertical-align:middle">
 ======
 >I'm still exploring different sub-fields in Computer Science at the moment. If you believe my experience and skillset can be valuable to your project, don't hesitate to reach out!
 
