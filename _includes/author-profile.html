@@ -1,5 +1,4 @@
 {% include base_path %}
-{% load images %}
 
 {% if page.author and site.data.authors[page.author] %}
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
@@ -24,7 +23,7 @@
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
       {% if author.location %}
-        <li><img src = "{%images 'location.png'%}" style="vertical-align:middle"> {{ author.location }}</li>
+        <li><img src = "images/location.png" width = "35" height = "35" style="vertical-align:middle"> {{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
