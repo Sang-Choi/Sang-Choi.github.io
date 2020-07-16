@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hey! 	
+Hey! 	<img src = "images/image.jpg">
 ======
 I am a 2nd year Computer Science student at Rose-Hulman Institute of Technology. I am currently interning at Carnegie Mellon University's Institute of Software Research.
 I'm working with Dr. Eunsuk Kang on lightweight formal methods to develop safe and robust Human-Machine Interfaces.
@@ -24,5 +24,3 @@ Projects
 CSSE 220 Project
 CSSE 120 Project
 
-![](images/image.jpg)
-<img src = "images/image.jpg">
