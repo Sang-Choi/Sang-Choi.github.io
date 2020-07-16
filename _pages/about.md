@@ -16,7 +16,7 @@ Research Interest
 ======
 >I'm still exploring different sub-fields in Computer Science at the moment. If you believe my experience and skillset can be valuable to your project, don't hesitate to reach out!
 
-Research
+Research <img src = "images/scroll.png" width = "45" height = "45" style="vertical-align:middle">
 =====
 
 Projects
