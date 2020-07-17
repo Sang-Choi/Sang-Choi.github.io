@@ -21,6 +21,6 @@ Research <img src = "images/scroll.png" width = "45" height = "45" style="vertic
 
 Projects <img src = "images/gear.png" width = "45" height = "45" style="vertical-align:middle">
 ======
-CSSE 220 Project
+CSSE 220 Project<img src = "images/pacjoust.jpg" style="vertical-align:middle">
 CSSE 120 Project
 
