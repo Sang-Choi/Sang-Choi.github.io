@@ -19,10 +19,14 @@ I'm working with Dr. Eunsuk Kang on **lightweight formal methods** to develop <a
 ## Research <img src = "images/scroll.png" width = "45" height = "45" style="vertical-align:middle">
 
 
-## Projects <img src = "images/gear.png" width = "45" height = "45" style="float:left">
-<img src = "images/pacjoust.gif" width = "240" height = "180" style="vertical-align:top">
+## Projects <img src = "images/gear.png" width = "45" height = "45" style="vertical-align:top">
+<p>
+<img src = "images/pacjoust.gif" width = "240" height = "180" style="float:left">
 ### CSSE 220 Project
+</p>
 
+<p>
 <img src = "images/robotics.gif" width = "240" height = "180" style="float:left">
 ### CSSE 120 Project
+</p>
 
