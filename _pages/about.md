@@ -20,8 +20,9 @@ I'm working with Dr. Eunsuk Kang on **lightweight formal methods** to develop <a
 
 
 ## Projects <img src = "images/gear.png" width = "45" height = "45" style="vertical-align:middle">
-#### CSSE 220 Project
-<img src = "images/pacjoust.gif" width = "220" height = "145" style="vertical-align:middle">
+<img src = "images/pacjoust.gif" width = "220" height = "180" style="vertical-align:top">
+### CSSE 220 Project
 
-#### CSSE 120 Project
-<img src = "images/robotics.gif" width = "220" height = "145" style="vertical-align:middle">
+<img src = "images/robotics.gif" width = "220" height = "180" style="vertical-align:middle">
+### CSSE 120 Project
+
