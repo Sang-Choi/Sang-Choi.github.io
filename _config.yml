@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sang Choi"
-  avatar           : "Rose.jpg"
+  avatar           : "profile.jpg"
   bio              : "Undergraduate Researcher at Rose-Hulman Institute of Technology"
   location         : "Terre Haute, IN"
   employer         :
@@ -95,13 +95,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Sang-Choi"
+  github           : "Sang-Choi"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/sang-heon-choi/"
+  linkedin         : "sang-heon-choi"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
