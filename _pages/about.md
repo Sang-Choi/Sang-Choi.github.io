@@ -22,7 +22,7 @@ I'm working with Dr. Eunsuk Kang on **lightweight formal methods** to develop <a
 ## Projects <img src = "images/gear.png" width = "45" height = "45" style="vertical-align:middle">
 
 <img src = "images/pacjoust.gif" width = "240" height = "180" style="float:left">
-  <p style="margin-left: 40px">
+  <p style="margin-left: 280px">
     <h3>CSSE 220 Project</h3>
     Project description
     lmao
