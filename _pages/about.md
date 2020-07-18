@@ -33,7 +33,10 @@ I'm working with Dr. Eunsuk Kang on **lightweight formal methods** to develop <a
    A Pac-Man reinterpretation of classic 80s game Joust using Java Graphics.
   </dd>
   <dd>
-    <button type="button" class="btn" href="https://www.youtube.com/watch?v=CSSRVOvrBMI">Video</button>
+    <button type="button" class="btn" href="https://www.youtube.com/watch?v=oa090hg7rCA">Video</button>
+  </dd>
+  <dd>
+      <button type="button" class="btn" href=href="https://github.com/Sang-Choi/Pac-Joust">Source Code</button>
   </dd>
 </dl>
 <br>
@@ -50,7 +53,7 @@ I'm working with Dr. Eunsuk Kang on **lightweight formal methods** to develop <a
      LEGO Mindstorm robot's IR sensor, camera and movements controlled in Python.
   </dd>
   <dd>
-    <button type="button" class="btn" href=href="https://github.com/Sang-Choi/Pac-Joust"><img src = "images/github.png" width = "10" height = "10" style="vertical-align:middle">Source Code</button>
+    <button type="button" class="btn" href="https://www.youtube.com/watch?v=CSSRVOvrBMI">Video</button>
   </dd>
 </dl>
 
