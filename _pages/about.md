@@ -19,11 +19,16 @@ I'm working with Dr. Eunsuk Kang on **lightweight formal methods** to develop <a
 ## Research <img src = "images/scroll.png" width = "45" height = "45" style="vertical-align:middle">
 
 
-## Projects <img src = "images/gear.png" width = "45" height = "45" style="vertical-align:top">
-<p>
+## Projects <img src = "images/gear.png" width = "45" height = "45" style="vertical-align:middle">
+
 <img src = "images/pacjoust.gif" width = "240" height = "180" style="float:left">
-<h3>CSSE 220 Project</h3>
-</p>
+  <p style="margin-left: 40px">
+    <h3>CSSE 220 Project</h3>
+    Project description
+    lmao
+    <br>
+    How about this?
+  </p>
 <br>
 <br>
 <br>
