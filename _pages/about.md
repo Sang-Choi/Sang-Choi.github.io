@@ -26,12 +26,14 @@ I'm working with Dr. Eunsuk Kang on **lightweight formal methods** to develop <a
     <img src = "images/pacjoust.gif" width = "200" height = "200" hspace = "10" style="float:left">
   </dt>
   <dt>
-     <h3>CSSE 220 Project</h3>
+     <h3>Pac-Joust</h3>
   </dt>
-      <dd>Project description
-      lmao</dd>
-      <br>
-      <dd>How about this?</dd>
+  <dd>
+   "A Pac-Man reinterpretation of classic 80s game Joust using Java Graphics."
+  </dd>
+  <dd>
+    <a href="https://www.youtube.com/watch?v=CSSRVOvrBMI" class="button"> Video</a>
+  </dd>
 </dl>
 <br>
 <br>
@@ -41,11 +43,11 @@ I'm working with Dr. Eunsuk Kang on **lightweight formal methods** to develop <a
    <img src = "images/robotics.gif" width = "200" height = "200" hspace = "10" style="float:left">
   </dt>
   <dt>
-     <h3>CSSE 220 Project</h3>
+     <h3>Robotics in Python</h3>
   </dt>
-      <dd>Project description
-      lmao</dd>
-      <br>
-      <dd>How about this?</dd>
+   <dd>
+     "LEGO Mindstorm robot's IR sensor, camera and movements controlled in Python."
+     <a href="https://github.com/Sang-Choi/Pac-Joust" class="button"><img src = "images/github.png" width = "10" height = "10" style="vertical-align:middle"> Source Code</a>
+  </dd>
 </dl>
 
