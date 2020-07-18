@@ -26,6 +26,9 @@ I'm working with Dr. Eunsuk Kang on **lightweight formal methods** to develop <a
 </p>
 <br>
 <br>
+<br>
+<br>
+<br>
 <p>
 <img src = "images/robotics.gif" width = "240" height = "180" style="float:left">
   <h3>CSSE 120 Project</h3>
