@@ -23,7 +23,7 @@ I'm working with Dr. Eunsuk Kang on **lightweight formal methods** to develop <a
 
 <dl>
   <dt>
-    <img src = "images/pacjoust.gif" width = "240" height = "180" style="float:left">
+    <img src = "images/pacjoust.gif" width = "200" height = "200" style="float:left">
   </dt>
   <dt>
      <h3>CSSE 220 Project</h3>
@@ -36,10 +36,16 @@ I'm working with Dr. Eunsuk Kang on **lightweight formal methods** to develop <a
 <br>
 <br>
 <br>
-<br>
-<br>
-<p>
-<img src = "images/robotics.gif" width = "240" height = "180" style="float:left">
-  <h3>CSSE 120 Project</h3>
-</p>
+<dl>
+  <dt>
+   <img src = "images/robotics.gif" width = "200" height = "200" style="float:left">
+  </dt>
+  <dt>
+     <h3>CSSE 220 Project</h3>
+  </dt>
+      <dd>Project description
+      lmao</dd>
+      <br>
+      <dd>How about this?</dd>
+</dl>
 
