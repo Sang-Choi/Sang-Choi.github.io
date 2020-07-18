@@ -36,7 +36,7 @@ I'm working with Dr. Eunsuk Kang on **lightweight formal methods** to develop <a
     <button type="button" class="btn" href="https://www.youtube.com/watch?v=oa090hg7rCA">Video</button>
   </dd>
   <dd>
-      <button type="button" class="btn" href=href="https://github.com/Sang-Choi/Pac-Joust">Source Code</button>
+      <button type="button" class="btn" href="https://github.com/Sang-Choi/Pac-Joust">Source Code</button>
   </dd>
 </dl>
 <br>
