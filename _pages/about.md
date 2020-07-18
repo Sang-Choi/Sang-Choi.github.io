@@ -32,7 +32,8 @@ I'm working with Dr. Eunsuk Kang on **lightweight formal methods** to develop <a
    "A Pac-Man reinterpretation of classic 80s game Joust using Java Graphics."
   </dd>
   <dd>
-    <a href="https://www.youtube.com/watch?v=CSSRVOvrBMI" class="button"> Video</a>
+    <button type="button" class="btn">Basic</button>
+    <a href="https://www.youtube.com/watch?v=CSSRVOvrBMI" class=button> Video</a>
   </dd>
 </dl>
 <br>
